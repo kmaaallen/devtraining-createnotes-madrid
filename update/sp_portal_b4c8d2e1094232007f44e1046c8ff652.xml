@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sp_portal">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
     <sp_portal action="INSERT_OR_UPDATE">
         <css_variables>$brand-primary: #428bca;
 $body-bg: #f0f3f4;
@@ -23,7 +22,7 @@ $btn-default-bg: #fff;
 $text-muted: #979797;
 </css_variables>
         <default>false</default>
-        <homepage display_value="notes_home">a61956e1094232007f44e1046c8ff68b</homepage>
+        <homepage display_value="copy_of_notes_home_1">ce056d69db52330094f42a9a4896190b</homepage>
         <icon/>
         <kb_knowledge_base/>
         <kb_knowledge_page/>
@@ -41,14 +40,14 @@ $text-muted: #979797;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-10 19:07:17</sys_created_on>
         <sys_id>b4c8d2e1094232007f44e1046c8ff652</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>CreateNotes</sys_name>
         <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
         <sys_policy/>
         <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
         <sys_update_name>sp_portal_b4c8d2e1094232007f44e1046c8ff652</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-04-10 19:12:21</sys_updated_on>
+        <sys_updated_on>2019-06-27 10:24:14</sys_updated_on>
         <theme display_value="Stock">79315153cb33310000f8d856634c9c4b</theme>
         <title>CreateNotes</title>
         <url_suffix>notes</url_suffix>
@@ -56,6 +55,7 @@ $text-muted: #979797;
     <sys_translated_text action="delete_multiple" query="documentkey=b4c8d2e1094232007f44e1046c8ff652"/>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color>#d1222b</average_image_color>
+        <chunk_size_bytes/>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
         <file_name>logo</file_name>
@@ -63,6 +63,7 @@ $text-muted: #979797;
         <image_width>261</image_width>
         <size_bytes>7420</size_bytes>
         <size_compressed>7339</size_compressed>
+        <state/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-10 19:07:05</sys_created_on>
         <sys_id>84e89aa1094232007f44e1046c8ff69c</sys_id>
